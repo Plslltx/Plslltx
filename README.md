@@ -5,7 +5,7 @@
 <br/>
 <br/>
 
-Sou Pedro Lucas Salles Teixeira, estudante de Ciência da Computação na Universidade Veiga de Almeida (UVA). Concluí o Ensino Médio na Escola Técnica 3D Colégios, onde também realizei o curso técnico em Informática, adquirindo conhecimentos em desenvolvimento de sistemas, lógica de programação e tecnologias voltadas para o ambiente computacional. Busco aprimorar minhas habilidades na área de desenvolvimento de software e contribuir com soluções criativas e eficientes para desafios tecnológicos.
+Sou Pedro Lucas Salles Teixeira, estudante de Ciência da Computação na Universidade Veiga de Almeida (UVA). Concluí o Ensino Médio na Escola Técnica 3D Colégios, onde realizei o curso técnico em Informática, adquirindo conhecimentos em desenvolvimento de sistemas, lógica de programação e tecnologias voltadas para o ambiente computacional. Além da formação técnica, possuo expecialização em desenvolvimento de jogos e robótica, realizados na Happy Code de Botafogo. Busco aprimorar minhas habilidades na área de desenvolvimento de software e contribuir com soluções criativas e eficientes para desafios tecnológicos.
 
 <br/>
 <br/>
