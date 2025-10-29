@@ -2,8 +2,6 @@
 
 **`Dev back-end e front-end`**
 
-<br/>
-<br/>
 
 Sou Pedro Lucas Salles Teixeira, estudante de Ciência da Computação na Universidade Veiga de Almeida (UVA). Concluí o Ensino Médio na Escola Técnica 3D Colégios, onde realizei o curso técnico em Informática, adquirindo conhecimentos em desenvolvimento de sistemas, lógica de programação e tecnologias voltadas para o ambiente computacional. Além da formação técnica, possuo expecialização em desenvolvimento de jogos e robótica, realizados na Happy Code de Botafogo. Busco aprimorar minhas habilidades na área de desenvolvimento de software e contribuir com soluções criativas e eficientes para desafios tecnológicos.
 
@@ -21,8 +19,11 @@ Sou Pedro Lucas Salles Teixeira, estudante de Ciência da Computação na Univer
   <!--Discord-->
   <a href="https://discord.com/users/p3droluk45"><img width="52px" alt="Discord" title="Discord" src="https://github.com/Plslltx/Plslltx/blob/740b5c044ef85772f2755ecd1d7287e3d52caf8b/Icons%20portfolio/Discord.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287; 
+  <!--figma-->
+  <a href="https://www.figma.com/files/team/1533682264024420928/user/1533682259327800106?fuid=1533682259327800106" alt="figma" title="figma"><img width="70px" src="https://github.com/Plslltx/Plslltx/blob/3b7125b9500915e7045faf001e209420ec08f3f9/Icons%20portfolio/figma.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
   <!--Dev.to-->
-  <a href="A fazer" alt="Devto" title="Devto"><img width="52px" src="https://github.com/Plslltx/Plslltx/blob/740b5c044ef85772f2755ecd1d7287e3d52caf8b/Icons%20portfolio/Dev.to.png"/></a>
+  <a href="A fazer" alt="Devto" title="Devto"><img width="52px" src="https://github.com/Plslltx/Plslltx/blob/bd3ff0a20e87b26dcfe0d952a030c68515aef1a2/Icons%20portfolio/devto.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
