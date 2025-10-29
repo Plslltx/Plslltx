@@ -22,7 +22,7 @@ Sou Pedro Lucas Salles Teixeira, estudante de Ciência da Computação na Univer
   <a href="https://discord.com/users/p3droluk45"><img width="52px" alt="Discord" title="Discord" src="https://github.com/Plslltx/Plslltx/blob/740b5c044ef85772f2755ecd1d7287e3d52caf8b/Icons%20portfolio/Discord.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287; 
   <!--Dev.to-->
-  <a href="A fazer" alt="Devto" title="Devto"><img width="52px" src="https://github.com/Plslltx/Plslltx/blob/740b5c044ef85772f2755ecd1d7287e3d52caf8b/Icons%20portfolio/Dev.to.png"/></a>
+  <a href="A fazer" alt="Devto" title="Devto"><img width="48px" src="https://github.com/Plslltx/Plslltx/blob/740b5c044ef85772f2755ecd1d7287e3d52caf8b/Icons%20portfolio/Dev.to.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
