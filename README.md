@@ -86,6 +86,26 @@ Sou Pedro Lucas Salles Teixeira, estudante de Ciência da Computação na Univer
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
 
+
+ <img
+     align="left" 
+     alt="Unity" 
+     title="Unity"
+     width="30px" 
+     style="padding-right: 10px;" 
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" />
+
+
+<img
+    align="left" 
+    alt="Arduino" 
+    title="Arduino"
+    width="30px" 
+    style="padding-right: 10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" />
+             
+          
+
 <img 
     align="left" 
     alt="Git" 
