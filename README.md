@@ -23,7 +23,7 @@ Sou Pedro Lucas Salles Teixeira, estudante de Ciência da Computação na Univer
   <a href="https://www.figma.com/files/team/1533682264024420928/user/1533682259327800106?fuid=1533682259327800106" alt="figma" title="figma"><img width="70px" src="https://github.com/Plslltx/Plslltx/blob/3b7125b9500915e7045faf001e209420ec08f3f9/Icons%20portfolio/figma.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <!--Dev.to-->
-  <a href="A fazer" alt="Devto" title="Devto"><img width="52px" src="https://github.com/Plslltx/Plslltx/blob/bd3ff0a20e87b26dcfe0d952a030c68515aef1a2/Icons%20portfolio/devto.png"/></a>
+  <a href="https://dev.to/plslltx" alt="Devto" title="Devto"><img width="52px" src="https://github.com/Plslltx/Plslltx/blob/bd3ff0a20e87b26dcfe0d952a030c68515aef1a2/Icons%20portfolio/devto.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
